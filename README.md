@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Sample POC for React typescript Redux Saga SASS
+
+## Dependency
+
+Clone Service layer https://github.com/slvramesh/react-ts-redux-saga-api
+
+Start server using command > node .
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -43,10 +53,3 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-## Dependenascy 
-
-## Dependency
-
-Clone Service layer https://github.com/slvramesh/react-ts-redux-saga-api
-
-Start server using command > node .
