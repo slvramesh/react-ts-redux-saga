@@ -1,4 +1,13 @@
 
-.App{
-  padding: 50px 0;
+.App {
+  .content{
+    padding: 50px 0;
+  }
+
+  .MuiLinearProgress-colorPrimary{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    right: 0;
+  }
 }

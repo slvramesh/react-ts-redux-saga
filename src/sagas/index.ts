@@ -1,9 +1,9 @@
 import { all } from 'redux-saga/effects';
 
-import contactListSaga from './contactListSaga';
+import contactSaga from './contactSaga';
 
 export default function* rootSaga() {
     yield all([
-        contactListSaga
-    ])
+        contactSaga()
+    ]);
 }

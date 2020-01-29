@@ -1,4 +1,4 @@
-@import '../../common/theme';
+@import '../../theme/theme.scss';
 
 .contactForm{
     padding-bottom: $__gutter-small__;
@@ -6,4 +6,8 @@
     .addCon{
         text-align: right;
     }
+}
+
+.notification{
+    padding-bottom: $__gutter-small__;
 }
